@@ -1,9 +1,9 @@
 {
-	"ownername":"ZeeoneOfc",
-	"ownernumber":"62887435047326",
-	"botname":"Haruka-Bot",
+	"ownername":"Andrywα",
+	"ownernumber":"6285894148101",
+	"botname":"Ash-Bot",
 	"thumbnail":"./settings/haruka.jpg",
-	"limit": {
+	"limit":35{
 		"free":20,
 		"premium":1000
 	},
